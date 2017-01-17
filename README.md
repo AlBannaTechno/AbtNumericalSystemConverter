@@ -19,8 +19,8 @@ String Converter Will Make A-Z=a-z range for Hex Decimal Converting Purpose
  * [win32](https://www.dropbox.com/s/qbl8rt1wdvy1w6m/AbtNSC_win32_1.0.0.zip?dl=0)
 
 ### Prerequisites
-* Python 3.4
-* colorama lib
+* [Python 3.4](https://www.python.org/download/releases/3.4.0/)
+* [colorama](https://pypi.python.org/pypi/colorama)
 
 ### Using
 To Use Command Line Interface
