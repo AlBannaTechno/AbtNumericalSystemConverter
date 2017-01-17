@@ -15,7 +15,8 @@ String Converter Will Make A-Z=a-z range for Hex Decimal Converting Purpose
 
 * This Project Can Directly Use from Command Line `StartLoop.py` File
 * Also Can Use as a part of your project `Abt_ns.py` File
-* Or You Can Download Pre-Build Version of This Project Vi
+* Or You Can Download Pre-Built Version of This Project 
+ * [win32](https://www.dropbox.com/s/qbl8rt1wdvy1w6m/AbtNSC_win32_1.0.0.zip?dl=0)
 
 ### Prerequisites
 * Python 3.4
