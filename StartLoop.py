@@ -1,5 +1,5 @@
 """
-© Al-Banna-Techno 2017 All CopyRight Reversed
+© Al-Banna-Techno 2017 All Rights Reserved⁯
 """
 from Abt_ns import AbtArithmeticNs,AbtNumericalSystem
 from colorama import Fore, Back, Style

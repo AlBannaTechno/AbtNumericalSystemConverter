@@ -1,5 +1,5 @@
 """
-© Al-Banna-Techno 2017 All CopyRight Reversed
+© Al-Banna-Techno 2017 All Rights Reserved⁯
 """
 import logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s -%(levelname)s - %(message)s')
